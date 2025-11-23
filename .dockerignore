@@ -1,0 +1,6 @@
+__pycache__
+downloads
+*.mp3
+.git
+.env
+venv
